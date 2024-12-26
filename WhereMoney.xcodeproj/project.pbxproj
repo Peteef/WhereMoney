@@ -50,6 +50,11 @@
 			path = WhereMoneyUITests;
 			sourceTree = "<group>";
 		};
+		8BE9A9EF2D1CD63A007BA7CC /* Resources */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +85,7 @@
 		8BE9A9A62D1CBE91007BA7CC = {
 			isa = PBXGroup;
 			children = (
+				8BE9A9EF2D1CD63A007BA7CC /* Resources */,
 				8BE9A9DD2D1CC2FB007BA7CC /* README.md */,
 				8BE9A9B12D1CBE91007BA7CC /* WhereMoney */,
 				8BE9A9C32D1CBE93007BA7CC /* WhereMoneyTests */,
@@ -115,6 +121,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				8BE9A9B12D1CBE91007BA7CC /* WhereMoney */,
+				8BE9A9EF2D1CD63A007BA7CC /* Resources */,
 			);
 			name = WhereMoney;
 			packageProductDependencies = (
